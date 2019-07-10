@@ -35,7 +35,7 @@ export default {
     name: 'AppNavigation',
     data() {
         return {
-            appTitle: 'Meal Prep',
+            appTitle: 'Fooddiee',
             drawer: false,
             items: [
                 { title: 'Menu' },
